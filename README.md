@@ -1,7 +1,7 @@
 # Robot-Arm
-In AssKnifeembly1 file, All given parts were assembly by joint in inventor
+In Assembly1 file, All given parts were assembly by joint in inventor
 
-in Asesembly2 file, I designed  new end effector and assembled with arm 
+in Assembly2 file, I designed  new end effector and assembled with arm 
 
 part 15 file , Arm3
 
